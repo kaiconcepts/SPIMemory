@@ -87,7 +87,6 @@
 #define CHIPERASE     0x60
 #define ALT_CHIPERASE 0xC7    // Some flash chips use a different chip erase command
 #define SUSPEND       0x75
-#define ID            0x90
 #define RESUME        0x7A
 #define JEDECID       0x9F
 #define POWERDOWN     0xB9
